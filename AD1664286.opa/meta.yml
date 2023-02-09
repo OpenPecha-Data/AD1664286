@@ -1,0 +1,20 @@
+id: AD1664286
+title: 'MSV 1,03: Pravāraṇāvastu'
+type: translation
+pechas:
+- I3550BAD2
+- I7CFDC679
+- I6E97A70A
+- I687D1DA3
+source_metadata:
+  languages:
+  - sa
+  - bo
+  datatype: PlainText
+  created_at: 2023-02-09 15:03:41.104187
+  last_modified_at: 2023-02-09 15:03:41.104199
+alignment_to_base:
+  I3550BAD2/0A8A: 23A2
+  I7CFDC679/C826: 23A2
+  I6E97A70A/D06A: 23A2
+  I687D1DA3/1887: 23A2
